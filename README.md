@@ -18,9 +18,10 @@ Sensor มีการตรวจจับฝุ่นเพื่อที่�
 4.สาย USB
 
 # ผลลัพธ์
-(https://github.com/Bisminla15/Mini_Project/blob/main/pm_1.png)
 
-(https://scontent.furt1-1.fna.fbcdn.net/v/t1.15752-9/301964218_557254886166530_722490329573164359_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGzB0894KZO469asn3We67iLfeabe1IhuIt95pt7UiG4qR9863rkTIEzZng_C9EsrP-bVCBvEDh2Owo8PKrodtg&_nc_ohc=-F-LWnLlmjkAX80j96N&tn=Z-_HRC6ZvfXUyJfo&_nc_ht=scontent.furt1-1.fna&oh=03_AVKBSNcAIPYAm4c6kel6V4NyYuwMXi0ivemeVKeYjPn07A&oe=633E51F0)
+
+# System Architecture
+
 
 # สมาชิกในกลุ่ม
 นางสาวกัญญารัตน์ รุ่งเรือง 63100481 
