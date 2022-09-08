@@ -18,11 +18,11 @@ Sensor มีการตรวจจับฝุ่นเพื่อที่�
 4.สาย USB
 
 # ผลลัพธ์
-
-
+![image](https://github.com/Bisminla15/Mini_Project/blob/main/pm.2.jpg)
+![image](https://github.com/Bisminla15/Mini_Project/blob/main/pm.3.jpg)
 
 # System Architecture
-
+![image](https://github.com/Bisminla15/Mini_Project/blob/main/pm.1.jpg)
 
 # สมาชิกในกลุ่ม
 นางสาวกัญญารัตน์ รุ่งเรือง 63100481 
