@@ -17,8 +17,13 @@ Sensor มีการตรวจจับฝุ่นเพื่อที่�
 
 4.สาย USB
 
+# ตัวต้นแบบ
+![image](https://github.com/Bisminla15/Mini_Project/blob/main/pm.4.jpg)
+
 # ผลลัพธ์
 ![image](https://github.com/Bisminla15/Mini_Project/blob/main/pm.2.jpg)
+
+# LINE Notify
 ![image](https://github.com/Bisminla15/Mini_Project/blob/main/pm.3.jpg)
 
 # System Architecture
